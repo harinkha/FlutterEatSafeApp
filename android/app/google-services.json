@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113899810600",
+    "project_id": "eatsafe-6b383",
+    "storage_bucket": "eatsafe-6b383.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113899810600:android:63fda69b5050d4d4226a1d",
+        "android_client_info": {
+          "package_name": "com.eatsafe.eatsafeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113899810600-5k8d8clt1v358f887al2brgp5cpndh0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARdPE47X7PSbXYdRpflkr2LVw1C2bn1TI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113899810600-5k8d8clt1v358f887al2brgp5cpndh0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
